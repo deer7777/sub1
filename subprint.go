@@ -1,7 +1,7 @@
 package sub1
 
 import "fmt"
-import "github.com/deer7777/subsub"
+import subsub "github.com/deer7777/subsub/v2"
 
 func Sub1print() {
 	fmt.Println("Sub1")
